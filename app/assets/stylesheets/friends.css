@@ -1,0 +1,27 @@
+.vertical {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.margin-t-15 {
+  margin-top: 15px;
+}
+
+.margin-r-5 {
+  margin-right: 5px;
+}
+
+.horizontal {
+  display: flex;
+}
+
+.margin-tb-8 {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.labels-margin {
+  margin-bottom: 4px;
+  display: block;
+}
